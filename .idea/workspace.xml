@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57f84b1b-bfbf-47eb-afe6-7ab2d84f932d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/auction/Auction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/auction/BidObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/auction/BidSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/AuctionDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/item/Art.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/item/CreateItemController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/item/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/item/ItemFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/item/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/AuctionDetailView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AuctionDetailView.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.15712667181522852" />
+      <entry key="MS500" value="0.6906372240719284" />
+      <entry key="S2" value="0.9116171683298027" />
+      <entry key="S5" value="0.9636625866956605" />
+      <entry key="S10" value="0.9816631737493572" />
+      <entry key="S30" value="0.9938499793662287" />
+      <entry key="S60" value="0.9969202472445972" />
+      <entry key="M2" value="0.9984589361834553" />
+      <entry key="M5" value="0.9993832892535952" />
+      <entry key="M10" value="0.9996915970706142" />
+      <entry key="M15" value="0.9997943874775865" />
+      <entry key="M30" value="0.9998971884536862" />
+      <entry key="H1" value="0.9999485929054984" />
+      <entry key="H2" value="0.9999742961224045" />
+      <entry key="H4" value="0.9999871479786151" />
+      <entry key="D1" value="0.9999978579849653" />
+      <entry key="W1" value="0.9999996939975713" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KfXtAnrL8QnIp0Zl3Qlu20fE1d" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Launcher.executor": "Run",
+    "Application.MainApp.executor": "Run",
+    "Maven. [clean,test].executor": "Run",
+    "Maven.AuctionPractice [clean,test].executor": "Run",
+    "Maven.AuctionPractice [clean,tét].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Merging feature/w6-auction-detail-view",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/1.Hoc_tap/Ki_3(2026-2027)/Lap_Trinh_Nang_Cao/AuctionPractice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean tét" />
+      <command value="maven clean test" />
+      <command value="mvn clean test" />
+      <command value="Reload All Maven Projects" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AuctionPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AuctionPractice" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57f84b1b-bfbf-47eb-afe6-7ab2d84f932d" name="Changes" comment="" />
+      <created>1791949808088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791949808088</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
